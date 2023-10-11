@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>getElementById</title>
+</head>
+<body>
+JavaScript 能够改变 HTML 内容
+<div id="demo">
+    <div id="demo2">第二个div</div>
+</div>
+
+<p id="demo3">第二个div</p>
+
+<p>时钟：<div id="clock"></div></p>
+
+<button type="button" onclick="document.getElementById('demo4').innerHTML = d"></button>
+</body>
+</html>
+<script type="text/javascript">
+    // document.getElementById("demo").innerHTML = "内容被改变";
+    document.getElementById("demo2").innerHTML = "第二个div内容被改变";
+    document.getElementById("demo3").innerHTML = "第三个div内容被改变";
+    document.getElementById("clock").innerHTML = Date()
+</script>
