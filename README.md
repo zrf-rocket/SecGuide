@@ -9,10 +9,18 @@
 [![](https://img.shields.io/badge/Gitee-SteveRocket-pink)](https://gitee.com/SteveRocket/)
 ![CTO Plus](https://img.shields.io/badge/微信公众号：CTO%20Plus-8A2BE2) 🥰
 
-<img src="./static/wechat.png" style="width:500px">
+## Contact
 
+![微信公众号](./static/wechat.png)  
+**< 微信公众号 >**
 
-**【代码工程系列】**
+![QQ技术交流群](./static/qq_link.png)  
+**< QQ技术交流群 >**
+
+![联系作者](./static/wechat.jpg)  
+**< 联系作者 >**
+
+## **【代码工程系列】**
 
 * [Python和Go的设计模式](https://github.com/zrf-rocket/DesignPattern)
     * GitHub：https://github.com/zrf-rocket/DesignPattern
@@ -33,6 +41,12 @@
 * [Python Web框架的示例代码](https://github.com/zrf-rocket/PythonFramework)
     * GitHub：https://github.com/zrf-rocket/PythonFramework
     * Gitee：https://gitee.com/SteveRocket/python_framework
+    * Django：https://github.com/zrf-rocket/PythonFramework/tree/master/django_framework
+    * Flask：https://github.com/zrf-rocket/PythonFramework/tree/master/flask_framework
+
+* [Python 爬虫框架和技术](https://github.com/zrf-rocket/PracticeSpider)
+    * GitHub：https://github.com/zrf-rocket/PracticeSpider
+    * Gitee：https://gitee.com/SteveRocket/practice_spider
 
 * [Rust代码示例](https://github.com/zrf-rocket/PracticeRust)
     * GitHub：https://github.com/zrf-rocket/PracticeRust
@@ -66,7 +80,7 @@
     * GitHub：https://github.com/zrf-rocket/SecGuide
     * Gitee：https://gitee.com/SteveRocket/security_guide
 
-**【产品系列】**
+## **【产品系列】**
 
 * [主机监控系统-日志收集与报警管理系统（SIEM）](https://github.com/zrf-rocket/SIEM)
     * GitHub：https://github.com/zrf-rocket/SIEM
@@ -80,9 +94,17 @@
     * GitHub：https://github.com/zrf-rocket/SOC_ICSA
     * Gitee：https://gitee.com/SteveRocket/SOC_ICSA
 
-* [DevSecOps-SDLC](https://github.com/zrf-rocket/DevSecOps-SDLC)
+* [DevSecTestOps-SDLC-自动化研发安全测试运维一体化平台（DevSecTestOps）](https://github.com/zrf-rocket/DevSecOps-SDLC)
     * GitHub：https://github.com/zrf-rocket/DevSecOps-SDLC
     * Gitee：https://gitee.com/SteveRocket/dev-sec-ops-sdlc
+
+* [Penetration Test-自动化渗透测试平台（PT）](https://github.com/zrf-rocket/PenetrationTest)
+    * GitHub：https://github.com/zrf-rocket/PenetrationTest
+    * Gitee：https://gitee.com/SteveRocket/penetration_test
+
+* [cicd-持续集成持续部署系统（CI/CD）](https://github.com/zrf-rocket/CICD)
+    * GitHub：https://github.com/zrf-rocket/CICD
+    * Gitee：https://gitee.com/SteveRocket/cicd
 
 * [AI图像识别-智能缺陷检测系统]()
     * [基于AI图像识别的工业缺陷检测应用系统（GPU&FPGA）](https://mp.weixin.qq.com/s/04qefQFg-Pg1Gcqq1vBLQQ)
@@ -109,6 +131,25 @@
 - 编写安全系统扫描策略
 - 安全组件开发
 - 漏洞修复指引
+- Web应用安全规范
+  - 接口安全规范
+- 编码安全规范
+  - Python
+  - PHP
+  - GoLang
+  - Java
+  - Node.js(JavaScript)
+  - Vue
+- 数据库安全规范
+  - MySQL
+  - Redis
+  - PostgreSQL
+  - Elasticsearch
+  - SQLServer
+- 操作系统安全规范
+  - Windows安全配置规范
+  - Linux安全配置规范
+
 
 <img src="./static/qq_link.png" style="width:200px"><br>
 **< QQ技术交流群 >**
